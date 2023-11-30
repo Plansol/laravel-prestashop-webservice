@@ -1,10 +1,10 @@
 {
-  "name": "protechstudio/laravel-prestashop-webservice",
-  "description": "Laravel 5 wrapper for Prestashop Web Service Library",
+  "name": "plansol/laravel-prestashop-webservice",
+  "description": "Plansol Customization for laravel 5 wrapper for Prestashop Web Service Library",
   "license": "MIT",
   "authors": [
     {
-      "name": "Vito Laera",
+      "name": "Andrea Gullino",
       "email": "vito.laera@protechstudio.it"
     }
   ],
